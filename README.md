@@ -13,6 +13,7 @@ This text was compiled by [Joris Burla](mailto:Joris.Burla@zuerich.ch) based on 
 * David Beranek
 * Francesca Altorfer
 * Philipp von Essen
+* Dominik Sievi
 
 If you want to save this documentation, you can download a PDF version here: [https://s3.dribdat.cc/glam/c/11544/AVWE4GAPIOIVJOT51G84LNBO/Documentation_GLAMhack_2024.pdf](https://s3.dribdat.cc/glam/c/11544/AVWE4GAPIOIVJOT51G84LNBO/Documentation_GLAMhack_2024.pdf)
 
